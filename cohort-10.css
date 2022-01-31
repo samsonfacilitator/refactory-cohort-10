@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(230, 211, 194);
+}
+p {
+    /* color: #B6814E; */
+    color: rgb(182, 129, 78);
+    text-align: left;
+    border: 2px;
+    border-color: tomato;
+    border-style: double;
+}
+/* sdfasdf */
