@@ -6,3 +6,6 @@
 2 
     Existing repo online
     create a copy of the online repo onto your computer
+
+3  We have now clone
+s
